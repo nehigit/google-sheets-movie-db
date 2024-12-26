@@ -1,0 +1,1 @@
+trzeba tak zrobić, aby jeden update całego worksheetu to był jeden request
